@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Back-end | Python 
 - 🌱 Estudando Python
-- 😄 Pronouns: Ele Dele
+- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Free agent
 <div align="center">
   <a href="https://github.com/FelipeM0reira">
