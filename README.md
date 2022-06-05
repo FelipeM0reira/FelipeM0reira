@@ -1,7 +1,7 @@
 ### Olá 👋! Eu sou o Felipe Moreira
 
 - 🔭 Desenvolvedor Back-end | Python 
-- 🌱 Estudando Python
+- 🌱 Atualmente estou praticando Python, Django, SQL.
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Free agent
 <div align="center">
