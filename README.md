@@ -1,9 +1,9 @@
-### Olá 👋! Eu sou o Felipe Moreira
+### <h1 align="center">Olá 👋! Eu sou o Felipe Moreira 👨‍💻</h1>
 
-- 🔭 Desenvolvedor Back-end | Python 
+- 🔭 Desenvolvedor Back-end | Python.
 - 🌱 Atualmente estou praticando Python, Django, SQL.
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Free agent
+- 😄 Pronouns: Ele/Dele.
+- ⚡ Fun fact: Free agent.
 <div align="center">
   <a href="https://github.com/FelipeM0reira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
