@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou praticando Python, Django, SQL.
 - 😄 Pronouns: Ele/Dele.
 - ⚡ Fun fact: Free agent.
-<div align="center">
+<div >
   <a href="https://github.com/FelipeM0reira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=radical"/>
