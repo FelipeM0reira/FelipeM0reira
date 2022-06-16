@@ -4,11 +4,13 @@
 - 🌱 Atualmente estou praticando Python, Django, SQL.
 - 😄 Pronouns: Ele/Dele.
 - ⚡ Fun fact: Free agent.
+
 <div align = "center">
   <a href = "https://github.com/FelipeM0reira">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=radical"/>
+  <img height = "160em" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height = "160em" alt="stats graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lipe-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/104744113/172082955-9c043323-1b0a-4b31-97a3-f2e9b139f845.svg"
