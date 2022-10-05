@@ -1,7 +1,7 @@
 ### <h1 align = "center">Olá 👋! Eu sou o Felipe Moreira 👨‍💻</h1>
 
 - 🔭 Desenvolvedor Back-end.
-- 🌱 Atualmente estou utilizando em meu ambiente de trabalho Php, Lravel, SQL.
+- 🌱 Atualmente estou utilizando em meu ambiente de trabalho Php, Laravel, SQL.
 - 😄 Pronouns: Ele/Dele.
 
 <div align = "center">
