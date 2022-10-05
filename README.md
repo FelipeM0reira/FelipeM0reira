@@ -1,9 +1,8 @@
 ### <h1 align = "center">Olá 👋! Eu sou o Felipe Moreira 👨‍💻</h1>
 
-- 🔭 Desenvolvedor Back-end | Python.
-- 🌱 Atualmente estou praticando Python, Django, SQL.
+- 🔭 Desenvolvedor Back-end.
+- 🌱 Atualmente estou utilizando em meu ambiente de trabalho Php, Lravel, SQL.
 - 😄 Pronouns: Ele/Dele.
-- ⚡ Fun fact: Free agent.
 
 <div align = "center">
   <a href = "https://github.com/FelipeM0reira">
