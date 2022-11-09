@@ -1,7 +1,7 @@
 ### <h1 align = "center">Olá 👋! Eu sou o Felipe Moreira 👨‍💻</h1>
 
 - 🔭 Desenvolvedor Back-end.
-- 🌱 Atualmente estou utilizando em meu ambiente de trabalho principalmente Php, Laravel e SQL.
+- 🌱 Atualmente estou utilizando em meu ambiente de trabalho principalmente PHP, Laravel e SQL.
 - 😄 Pronouns: Ele/Dele.
 
 <div align = "center">
@@ -12,6 +12,7 @@
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lipe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lipe-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/104744113/172082955-9c043323-1b0a-4b31-97a3-f2e9b139f845.svg"
  />
   
