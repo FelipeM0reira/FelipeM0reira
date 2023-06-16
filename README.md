@@ -10,7 +10,7 @@
   <img align = "center" height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=radical&bg_color=00000000"/> -->
     <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=neon&include_all_commits=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
