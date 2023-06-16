@@ -8,10 +8,9 @@
   <a href = "https://github.com/FelipeM0reira">
 <!--   <img align = "center" height = "180" src= "https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&count_private=true"/>
   <img align = "center" height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=radical&bg_color=00000000"/> -->
-    <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=neon&include_all_commits=true&count_private=true"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=neon"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -19,6 +18,16 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align = "center" height = "180" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reiraa&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7&theme=neon"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
   <img align = "center" height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM0reira&layout=compact&langs_count=7" />
 </picture>
   </div>
