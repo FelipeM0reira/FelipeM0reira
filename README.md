@@ -15,7 +15,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=FelipeM0reira&show_icons=true&theme=default&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align = "center" height = "180" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reiraa&show_icons=true" />
+  <img align = "center" height = "180" src="https://github-readme-stats.vercel.app/api?username=FelipeM0reiraa&show_icons=true"/>
 </picture>
 <picture>
   <source
