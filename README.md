@@ -36,7 +36,7 @@
   <img align="center" alt="Lipe-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/104744113/172082955-9c043323-1b0a-4b31-97a3-f2e9b139f845.svg"
  />
   
- [ <img align="center" alt="Lipe-Django" height="30" width="40" src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667" />](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img align="center" alt="Lipe-Django" height="30" width="40" src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667" />
   <img align="center" alt="Lipe-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Lipe-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Lipe-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
