@@ -1,6 +1,6 @@
 ### <h1 align = "center">Olá 👋! Eu sou o Felipe Moreira 👨‍💻</h1>
 
-- 🔭 Desenvolvedor Back-end.
+-  🔭  Desenvolvedor Back-end.
 
 <div align = "center">
   <a href = "https://github.com/FelipeM0reira">
