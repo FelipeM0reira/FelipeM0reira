@@ -1,6 +1,6 @@
 ### <h1 align = "center">Olá 👋! Eu sou o Felipe Moreira 👨‍💻</h1>
 
-- 🔭 Desenvolvedor Back-end.
+- 🔭 Desenvolvedor Back-end | Back-end Developer.
 - 👨🏻‍💻  Free agent.
 
 <div align = "center">
